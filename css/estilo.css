@@ -1,0 +1,11 @@
+.slide img {
+    height: 60vh;
+}
+
+.hide{
+    display: none;
+}
+
+.show{
+    display: block;
+}
